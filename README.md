@@ -14,8 +14,8 @@ These are some of the major technologies that I use or have worked on in the pas
 
 **Infrastructure**
 
-<img title="AWS" alt="AWS" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png">
-
+<img title="AWS" alt="AWS" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png">|<img title="Azure" alt="Azure" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/azure/azure.png">
+|--|--|
 **Databases**
 
 <img title="SQL" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png">|<img title="MongoDB" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png">|<img title="Postgres" alt="Postgres" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png"> <br>
