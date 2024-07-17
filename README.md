@@ -15,7 +15,6 @@ These are some of the major technologies that I use or have worked on in the pas
 **Infrastructure**
 
 <img title="AWS" alt="AWS" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png">
-|--|--|--|
 
 **Databases**
 
